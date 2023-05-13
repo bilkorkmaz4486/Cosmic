@@ -10,7 +10,8 @@ It is currently being updated by CosmosTheDEV and Tacogamerman.
 
 ![cooltext435471791568953](https://github.com/Tacogamerman/Cosmic-Unblocker/assets/119009502/0bf311e8-8787-4248-aa58-3e0326166080)
 
-<img width="960" alt="image" src="https://github.com/CosmicProxy-DEV/Cosmic/assets/119009502/b080b20e-a01e-4088-98c9-87ceca3bbb26">
+<img width="960" alt="image" src="https://github.com/CosmicProxy-DEV/Cosmic-Unblocker/assets/119009502/994fdda5-e306-4328-88dc-af7db575e758">
+
 
 
 
