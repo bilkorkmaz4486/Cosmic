@@ -2,7 +2,7 @@
 
 # What is Cosmic? 
 
-Cosmic is a web proxy made with Rhodium. 
+Cosmic is a web proxy with many features.
 
 It is currently being updated by CosmosTheDEV and Tacogamerman.
 
